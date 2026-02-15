@@ -1,4 +1,4 @@
-# Media NV - Full Stack Projects
+# Full Stack Projects
 
 A collection of modern, full-stack web applications built with React, Express, and PostgreSQL. These projects demonstrate best practices in web development, database management, and user interface design.
 
