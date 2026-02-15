@@ -31,12 +31,12 @@ A powerful PostgreSQL database management interface that simplifies database ope
 **Quick Start:**
 ```bash
 cd database-management/backend
-npm install
+npm i
 npm run dev
 
 # In another terminal
 cd database-management/frontend
-npm install
+npm i
 npm run dev
 ```
 
